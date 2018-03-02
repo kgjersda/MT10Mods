@@ -29,6 +29,15 @@ Notice difference in part 11 below.
 
 ![MT-10 SP](graphics/mt-10-sp-diagram-brake-mirror.png)
 
+
+You will need a way to fit a brake fluid reservoir. Some use Brembo kits, some use different methods.
+
+### Front brake calipers
+
+MT-10 owners can upgrade to R1/R1M calipers directly.
+
+MT-10 SP owners would look at Brembos. But it looks like Brembos would need spacers/different brake discs.
+
 #### Brembo RCS 19 upgrade
 This fine piece of kit fits the bike brilliantly. However there needs to be done work for the brake switch/cruise control.
 
