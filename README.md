@@ -43,6 +43,13 @@ This fine piece of kit fits the bike brilliantly. However there needs to be done
 
 ## Electronic
 
+### 12v outlet
+The standard outlet is quite shoddy on keeping adapters in place because of the horizontal placement.
+
+Author of repo fitted an elastic band around the assembly by loosening a screw.
+
+Other bike owners have fitted dedicated USB outputs, some even show voltage.
+
 ## Wheels
 
 # Notes
