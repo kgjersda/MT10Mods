@@ -52,6 +52,14 @@ Other bike owners have fitted dedicated USB outputs, some even show voltage.
 
 ## Wheels
 
+# Communities
+
+### Facebook
+- [Yamaha Mt-10 SP](https://www.facebook.com/groups/448128215576782/)
+
+### Forums
+- *To be listed*
+
 # Notes
 
 Neither the author of this repo, nor the rest of it's contributors takes any responsibility for anything. 
