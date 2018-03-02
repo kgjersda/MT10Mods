@@ -19,13 +19,15 @@ The standard MT-10 needs a new mirror fitting because the mirror is fitted to th
 
 The MT-10 SP has a different reservoir with no mirror attachment, as the attachment is fitted to the bracket.
 
-MT-10
+Notice difference in part 11 below.
 
-[[graphics/mt-10-diagram-brake-mirror.png]]
+**MT-10**
 
-MT-10 SP
+![MT-10 Standard](graphics/mt-10-diagram-brake-mirror.png)
 
-[[graphics/mt-10-sp-diagram-brake-mirror.png]]
+**MT-10 SP**
+
+![MT-10 SP](graphics/mt-10-sp-diagram-brake-mirror.png)
 
 #### Brembo RCS 19 upgrade
 This fine piece of kit fits the bike brilliantly. However there needs to be done work for the brake switch/cruise control.
