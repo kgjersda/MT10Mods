@@ -68,6 +68,18 @@ Other bike owners have fitted dedicated USB outputs, some even show voltage.
 
 ## Wheels
 
+## Luggage
+
+### Givi/kappa full setup
+
+Givi offers a full range of products that fits the MT-10.
+
+Author already has a tanklock bag with the MT-10 tanklock ring (BF27).
+
+Side cases are available with a quick release system (PLXR2129) and V35 side cases.
+
+A cheaper option, but nearly identical is the the Kappa KLXR2129 and K33N side cases.
+
 # Communities
 
 ### Facebook
