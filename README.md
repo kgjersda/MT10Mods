@@ -8,7 +8,7 @@ This repo will try to highlight what the community has done to their bikes.
 
 ## Chassis
 
-### Suspension adjustment
+### Suspension adjustment for Road
 
 Suspension settings for road set up for a member at the MT-10 SP group.
 **Member weighed 95kg kitted.**
