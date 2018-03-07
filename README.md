@@ -8,6 +8,16 @@ This repo will try to highlight what the community has done to their bikes.
 
 ## Chassis
 
+### Rear suspension (SP)
+The author of this repo contacted Öhlins regarding the spring rate on the MT-10 SP.
+> Hello Öhlins,
+>I'm trying to figure out the spring rate for the Yamaha MT-10 SP and if I >should adjust it with a new spring. I'm around 95kg with all my gear on. 
+ 
+> __Öhlins responded:__
+> Standard spring is article number 21040-29, rate 90N/mm, should be ok for your weight depending on your riding style.
+> If you want to use harder spring you can go to article number 21040-34, rate 100N/mm.
+
+
 ## Brakes
 
 ### Front brake master cylinder upgrades
