@@ -8,6 +8,35 @@ This repo will try to highlight what the community has done to their bikes.
 
 ## Chassis
 
+### Suspension adjustment
+
+Suspension settings for road set up for a member at the MT-10 SP group.
+**Member weighed 95kg kitted.**
+
+**Sag:**
+
+| Location | Travel (mm) | Static sag (mm) | Rider sag (mm) |
+| --- | --: | --: | --: |
+| Front    |         123 |          31 |         41 |
+| Rear     |         548 |          13 |         32 |
+
+**Front dampening:**
+
+| Mode | Compression | Rebound |
+| ---- |--: | --: |
+| A1   |          21 |      24 |
+| M1   |          19 |      20 |
+| M2   |          17 |      13 |
+
+**Rear dampening:**
+
+| Mode | Compression | Rebound |
+| ---- | ---: | --: |
+| A1   |          22 |      25 |
+| M1   |          20 |      19 |
+| M2   |          18 |      14 |
+
+
 ### Rear suspension (SP)
 The author of this repo contacted Öhlins regarding the spring rate on the MT-10 SP.
 > Hello Öhlins,
