@@ -8,10 +8,12 @@ This repo will try to highlight what the community has done to their bikes.
 
 ## Chassis
 
-### Suspension adjustment for Road
+### Suspension adjustment 
 
 Suspension settings for road set up for a member at the MT-10 SP group.
 **Member weighed 95kg kitted.**
+
+Notes: A1 is road, M1 is fast road/track, M2 is fast track.
 
 **Sag:**
 
