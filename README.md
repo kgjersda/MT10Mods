@@ -6,6 +6,20 @@ There are however certain areas of the bike that can be improved either by a bit
 
 This repo will try to highlight what the community has done to their bikes.
 
+## Exhuast
+
+### R1/R1M Titanium Headers (NOT R1S)
+
+The R1/R1M is delivered with titanium headers as standard while the MT-10 has stainless steel. Buying a brand new pair of headers from Akrapovic or other manufactureres can cost upwards of and over $1000. Second hand headers can be found for as low as $200. Author of this repo bought a full exhaust from an R1 for $300 including shipping. (This included the cat and muffler).
+
+**Note** Some eBay lists headers as 2015-2018 R1/R1S/R1M without specifying which model they actually came from. Before buying make sure that you are getting headers from either an R1 or R1M. **The R1S has stainless steel headers!**
+
+Steve L. from the MT-10 SP Facebook group has this to say about mounting new headers:
+
+> For the R1 headers. Remove all mounting bolts from the oil cooler so you can move it forwards and down. Then remove the mounting bracket from the front of the engine that connects to the oil cooler. Use a 3/8 drive ratchet with extension bars and a universal joint to get to the stud nuts. They are a little awkward, but easily reachable. Then the OE headers will come free and drop down, DON'T cross the threads when you put them back on 😂. If the exhaust gaskets fall out smear them with a little grease and they will stick in place. Straight forward job.
+
+
+
 ## Chassis
 
 ### Suspension adjustment 
