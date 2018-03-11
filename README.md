@@ -18,8 +18,6 @@ Steve L. from the MT-10 SP Facebook group has this to say about mounting new hea
 
 > For the R1 headers. Remove all mounting bolts from the oil cooler so you can move it forwards and down. Then remove the mounting bracket from the front of the engine that connects to the oil cooler. Use a 3/8 drive ratchet with extension bars and a universal joint to get to the stud nuts. They are a little awkward, but easily reachable. Then the OE headers will come free and drop down, DON'T cross the threads when you put them back on 😂. If the exhaust gaskets fall out smear them with a little grease and they will stick in place. Straight forward job.
 
-
-
 ## Chassis
 
 ### Suspension adjustment 
@@ -112,6 +110,12 @@ Author of repo fitted an elastic band around the assembly by loosening a screw.
 Other bike owners have fitted dedicated USB outputs, some even show voltage.
 
 ## Wheels
+
+## Cockpit/comfort
+
+### Comfort seat rubbing
+
+The leather on some of the comfort seat rubs against the tank. Probably due to a bad plastic mould. This continues until the bare plastic is showing throught he leather.
 
 ## Luggage
 
