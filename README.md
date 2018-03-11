@@ -6,7 +6,18 @@ There are however certain areas of the bike that can be improved either by a bit
 
 This repo will try to highlight what the community has done to their bikes.
 
-## Exhuast
+## Engine
+
+### Radiator and oil cooler protection
+
+One of the first mod often recommended is to further protect the radiator and oil cooler. Being set directly behind the front wheel they are often victims of rocks, dirt, bees and other small furry creatures.
+
+There are many different manufacturers that create protectors. R&G, Evotech, Yamaha OEM parts to name a few.
+
+The author of this repo purchased Racing Radiator Guards which do not require any nuts or bolts to install. This install cost around £35, comapred to £200 from Yamaha OEM.
+
+![MT-10 SP RRG 01](graphics/mt-10-sp-radiator-guards-01.jpg)
+![MT-10 SP RRG 02](graphics/mt-10-sp-radiator-guards-02.jpg)
 
 ### R1/R1M Titanium Headers (NOT R1S)
 
@@ -99,8 +110,7 @@ MT-10 SP owners would look at Brembos. But it looks like Brembos would need spac
 
 At least one member on Facebook has fitted Brembo GP4 RS calipers.
 
-
-## Electronic
+## Electronics
 
 ### 12v outlet
 The standard outlet is quite shoddy on keeping adapters in place because of the horizontal placement.
@@ -109,13 +119,15 @@ Author of repo fitted an elastic band around the assembly by loosening a screw.
 
 Other bike owners have fitted dedicated USB outputs, some even show voltage.
 
-## Wheels
-
 ## Cockpit/comfort
 
 ### Comfort seat rubbing
 
 The leather on some of the comfort seat rubs against the tank. Probably due to a bad plastic mould. This continues until the bare plastic is showing throught he leather.
+
+The author of this repo issued a warranty request and got a new comfort seat. This seat also rubs against the tank, but has not yet rubbed through (11th March 2018)... The warrantly was issued less than 2 months after the bike was new.
+
+![MT-10 SP Comfort seat rubs](graphics/mt-10-sp-seat-leather-rub.jpg)
 
 ## Luggage
 
