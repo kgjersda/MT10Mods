@@ -12,7 +12,7 @@ This repo will try to highlight what the community has done to their bikes.
 
 The R1/R1M is delivered with titanium headers as standard while the MT-10 has stainless steel. Buying a brand new pair of headers from Akrapovic or other manufactureres can cost upwards of and over $1000. Second hand headers can be found for as low as $200. Author of this repo bought a full exhaust from an R1 for $300 including shipping. (This included the cat and muffler).
 
-**Note** Some eBay lists headers as 2015-2018 R1/R1S/R1M without specifying which model they actually came from. Before buying make sure that you are getting headers from either an R1 or R1M. **The R1S has stainless steel headers!**
+**Note:** Some eBay lists headers as 2015-2018 R1/R1S/R1M without specifying which model they actually came from. Before buying make sure that you are getting headers from either an R1 or R1M. **The R1S has stainless steel headers!**
 
 Steve L. from the MT-10 SP Facebook group has this to say about mounting new headers:
 
