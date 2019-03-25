@@ -99,6 +99,8 @@ Notice difference in part 11 below.
 
 You will need a way to fit a brake fluid reservoir. Some use Brembo kits, some use different methods.
 
+YoutubeVideo from Richies Bikes walking through the swap.  https://www.youtube.com/watch?v=PaKRaU9YE3w
+
 #### Brembo RCS 19 upgrade
 This fine piece of kit fits the bike brilliantly. However there needs to be done work for the brake switch/cruise control.
 
