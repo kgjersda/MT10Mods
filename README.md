@@ -106,9 +106,9 @@ This fine piece of kit fits the bike brilliantly. However there needs to be done
 
 ### Front brake calipers
 
-MT-10 owners can upgrade to R1/R1M calipers directly.
+MT-10 and MT-10 owners can upgrade to R1/R1M calipers directly.
 
-MT-10 SP owners would look at Brembos. But it looks like Brembos would need spacers/different brake discs.
+It is possible to upgrade to brembo calipers but it looks like Brembos would need spacers/different brake discs.
 
 At least one member on Facebook has fitted Brembo GP4 RS calipers.
 
